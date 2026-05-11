@@ -1,4 +1,4 @@
-
+updated Workflow for Bartender for macOS - OCR-support and junk-removal is the best Bartender for macOS workflow, featuring OCR-support and junk-removal. Safe, efficient, and
 
 
 
